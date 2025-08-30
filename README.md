@@ -17,7 +17,7 @@ Proyectos realizados a lo largo del cursado de la carrera de Data Science. / Pro
 - **About:** In this course, I discovered the fundamentals of Data Science. I learned how to work with large volumes of data, perform exploratory data analysis, and use Python to solve complex problems. For the final project, I worked on an Australian domestic flight dataset, analyzing passenger trends and building predictive models. I applied data cleaning and preprocessing, feature engineering, and exploratory data analysis. I then developed and evaluated models such as Linear Regression and a Random Regressor to forecast passenger demand. This project allowed me to complete the full data science workflow, from data preparation and exploration to modeling and performance evaluation.
 - **Final Project:** I developed predictive models using Linear Regression and a Random Regressor on an Australian domestic flights dataset to forecast passenger demand.
   - *Tools:* Python, Pandas, Nupy, Scikit-learn, Google Colab.
-  - [View project](data-science-I/README.md)
+  - [View project](data-science-1/README.md)
 
 ---
 

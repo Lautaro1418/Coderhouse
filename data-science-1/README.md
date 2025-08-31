@@ -33,7 +33,7 @@ Predict passenger demand for Australian domestic flights.
 - Built full workflow from raw dataset to predictive modeling. 
 
 ## 📸 Visualizations
-### Demand over time
+### Passengers, Freight and Mails over time
 ![Line Chart](Gráfico%20de%20Linea.png)
 
 ### Random Regressor Predictions
